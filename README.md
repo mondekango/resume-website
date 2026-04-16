@@ -35,3 +35,377 @@
   </footer>
 </body>
 </html>
+#education
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Education - Monde Major Kango</title>
+  <link rel="stylesheet" href="styles/styles.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <img src="images/jpeg@22.jpg" alt="Profile Photo" class="profile-pic" />
+      <h2 class="logo">Major.rsa</h2>
+      <ul class="nav-link">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="skills.html">Skills</a></li>
+        <li><a href="experience.html">Experience</a></li>
+        <li><a href="education.html">Education</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="education" class="section">
+    <h2>Education</h2>
+    <div class="education-item">
+      <h3>Soyisile Senior Secondary school / Grade 12 (Matric)</h3>
+      <p class="year">2009 - 2013</p>
+       <img src="images/soyisile.jpg" alt="Soyisile Senior Secondary School" class="school-image" />
+      <p>Soyisile Senior Secondary School, situated at Kamastone Village , Queenstown, Whittlesea, 5360, <br> operates as a public secondary school within the Kamastone, Whittlesea, <br> Queenstown urban suburb of Eastern Cape Province, South Africa.</p>
+    </div>
+    <div class="education-item">
+      <h3>King Hintsa TVET College Teko Campus / Farming Management N4</h3>
+      <p class="year">2014</p>
+      <img src="images/king.jpg" alt="King Hintsa TVET College Teko Campus" class="school-image" />
+      <p>King Hintsa TVET College is a renowned educational institution in South Africa, known for its commitment to providing quality vocational education and training.
+Physical address:
+
+Tracor Farms Centane Road
+
+Tel: 047 491 9847/22
+
+Postal Address:
+
+Private Bag X 3018
+Butterworth, 4960
+
+</p>
+    </div>
+    <div class="education-item">
+      <h3>Lindamahle Innovation Centre / Programming and Networking</h3>
+      <p class="year">2025 - 2026</p>
+      <img src="images/lindamahle.jpg" alt="Lindamahle Innovation Centre" class="school-image">
+      <p>"Lindamahle Management Systems serves as the overarching organisation of the Lindamahle Innovation Centre, led by Zine Nkukwana. The Innovation Centre represents the company’s commitment to empowering the people of Africa by providing access to knowledge, tools, and skills essential for participation in the Fourth Industrial Revolution (4IR).lindamahle Innovation Centre is resised in Mthatha, Baziya village "</p>
+    </div>
+  </section>
+
+  <footer>
+     <p>2025 Monde Major Kango. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+#skills
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Skills - Monde Major Kango</title>
+  <link rel="stylesheet" href="styles/styles.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <img src="images/jpeg@22.jpg" alt="Profile Photo" class="profile-pic" />
+      <h2 class="logo">Major.rsa</h2>
+      <ul class="nav-link">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="skills.html">Skills</a></li>
+        <li><a href="experience.html">Experience</a></li>
+        <li><a href="education.html">Education</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="skills" class="section">
+    <h2>Skills</h2>
+    <ul class="skills">
+      <li>Communication</li>
+      <li>Teamwork</li>
+      <li>Critical thinking ability</li>
+      <li>Adaptability and flexibility</li>
+      <li>Problem-solving</li>
+      <li>Creativity and originality</li>
+      <li>Technical skils</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>2025 Monde Major Kango. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+#experience
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Experience - Monde Major Kango</title>
+  <link rel="stylesheet" href="styles/styles.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <img src="images/jpeg@22.jpg" alt="Profile Photo" class="profile-pic" />
+      <h2 class="logo">Major.rsa</h2>
+      <ul class="nav-link">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="skills.html">Skills</a></li>
+        <li><a href="experience.html">Experience</a></li>
+        <li><a href="education.html">Education</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="experience" class="section">
+    <h2>Experience</h2>
+
+    <!-- Detailed cycle counter info -->
+     <section>
+    <div class="experience-item">
+      <h3>Warehouse Cycle Counter - Cilmore Shoprite DC</h3>
+      <p class="year">2019 - 2021</p>
+      <img src="images/cycle conter.jpg" alt="Warehouse Cycle Counter" class="school-image">
+      <p>The role of a <strong>Warehouse Cycle Counter</strong> is critical in ensuring that inventory records are accurate, up-to-date, and reliable. As part of the cycle counting process, the <strong>Warehouse Cycle Counter</strong> is responsible for physically counting inventory in the warehouse, reconciling discrepancies, and supporting the overall inventory management system. Below are the key details about the roles and responsibilities:</p>
+
+      <h4>Role of a Warehouse Cycle Counter</h4>
+      <p>The primary role is to perform inventory counts at regular intervals to ensure that the physical stock matches the system records. Unlike full physical inventories done once or twice a year, cycle counts are ongoing and focus on small sections, helping to identify and resolve discrepancies early.</p>
+
+      <h4>Key Responsibilities</h4>
+      <ul>
+        <li><strong>Perform Inventory Counts:</strong> Carry out scheduled counts for specific areas/items, ensuring accuracy and reporting discrepancies.</li>
+        <li><strong>Reconcile Discrepancies:</strong> Identify, report, and investigate differences between physical counts and system data, assisting in record adjustments.</li>
+        <li><strong>Record Results:</strong> Log counts and discrepancies in the inventory system or forms, using barcode/RFID tools or manual entries.</li>
+        <li><strong>Use Technology:</strong> Operate barcode scanners, RFID devices, and inventory software to facilitate accurate counts.</li>
+        <li><strong>Verify Locations & Accessibility:</strong> Ensure items are properly labeled, organized, and accessible for efficient counting.</li>
+        <li><strong>Collaborate:</strong> Work with supervisors, receiving, and shipping teams to ensure inventory accuracy and help in stock replenishment.</li>
+        <li><strong>Follow Safety & Procedures:</strong> Use PPE, handle items safely, and follow safety guidelines.</li>
+        <li><strong>Contribute to Improvements:</strong> Suggest process improvements for labeling, organization, and counting efficiency.</li>
+      </ul>
+
+      <h4>Tools & Skills</h4>
+      <ul>
+        <li>Barcode scanners, RFID systems</li>
+        <li>Inventory management software</li>
+        <li>Attention to detail and organization</li>
+        <li>Problem-solving and communication skills</li>
+        <li>Physical stamina for warehouse tasks</li>
+      </ul>
+
+      <h4>Challenges & Contributions</h4>
+      <p>Ensuring accuracy amid repetitive tasks, physical demands, and reducing discrepancies, which supports inventory integrity and prevents stock issues.</p>
+    </div>
+    </section>
+
+    <section>
+    <!-- Existing warehouse operator -->
+    <div class="experience-item">
+      <h3>Warehouse Operator - Twinnsaver</h3>
+      <p class="year">2021 - 2024</p>
+      <img src="images/oparator1.jpg" alt=">Warehouse Operator" class="school-image">
+      <p>A <strong>Warehouse Operator</strong> plays a critical role in managing and moving inventory within a warehouse environment. Their responsibilities span tasks from receiving goods and organizing inventory to picking, packing, and shipping orders. They ensure that warehouse operations are efficient, inventory is properly handled, and orders are fulfilled on time.</p>
+      
+      <h4>Roles & Responsibilities</h4>
+      <ul>
+        <li><strong>Receiving & Unloading:</strong> Unload goods from trucks, inspect for damages, verify against documentation, and label products.</li>
+        <li><strong>Storage & Inventory Management:</strong> Organize stock in proper locations, monitor levels, and rotate stock (FIFO).</li>
+        <li><strong>Order Picking & Packing:</strong> Retrieve items based on orders, pack securely, label, and prepare for dispatch.</li>
+        <li><strong>Shipping & Dispatch:</strong> Load shipments, verify shipping details, coordinate with logistics.</li>
+        <li><strong>Assist in Cycle Counts:</strong> Physically count stock, report discrepancies, and help update records.</li>
+        <li><strong>Warehouse Maintenance:</strong> Keep work areas clean, organized, and safe; inspect equipment.</li>
+        <li><strong>Operate Equipment:</strong> Use forklifts, pallet jacks, and other machinery safely and effectively.</li>
+        <li><strong>Quality & Order Accuracy:</strong> Inspect products for defects, ensure correct orders, and minimize errors.</li>
+        <li><strong>Teamwork & Communication:</strong> Collaborate with departments, report issues, and suggest process improvements.</li>
+      </ul>
+
+      <h4>Skills & Tools</h4>
+      <img src="images/oparator2.jpg" alt="Skills & Tools" class="tools-image">
+      <ul>
+        <li>Attention to detail</li>
+        <li>Physical strength and stamina</li>
+        <li>Basic computer skills & WMS familiarity</li>
+        <li>Forklift certification (if applicable)</li>
+        <li>Good communication & teamwork</li>
+        <li>Safety-consciousness</li>
+      </ul>
+      
+      <h4>Challenges</h4>
+      <p>Handling physical demands, maintaining accuracy under time pressure, and ensuring safety are key challenges faced in this role.</p>
+    </div>
+    </section>
+  </section>
+
+  <footer>
+    <p>2025 Monde Major Kango. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+#contact
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contact - Monde Major Kango</title>
+  <link rel="stylesheet" href="styles/styles.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <img src="images/jpeg@22.jpg" alt="Profile Photo" class="profile-pic" />
+      <h2 class="logo">Major.rsa</h2>
+      <ul class="nav-link">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="skills.html">Skills</a></li>
+        <li><a href="experience.html">Experience</a></li>
+        <li><a href="education.html">Education</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="contact" class="section">
+    <h2>Contacts</h2>
+    <div class="contacts-term">
+      <p>Email: monde.kango@lindamahle.tech</p>
+      <!-- Facebook link -->
+      <p>
+        <a href="https://facebook.com/kangomonde7@gmail.com" target="_blank" class="social-icon">
+          <i class="fab fa-facebook-f"></i> kangomonde7@gmail.com
+        </a>
+      </p>
+      <!-- WhatsApp link -->
+      <p>
+        <a href="https://wa.me/27818279910" target="_blank" class="social-icon">
+          <i class="fab fa-whatsapp"></i> WhatsApp
+        </a>
+      </p>
+    </div>
+  </section>
+
+  <footer>
+    <p>2025 Monde Major Kango. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+#style.css
+/* Reset defaults */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ===== BACKGROUND IMAGE STYLE (Your Uploaded Picture) ===== */
+body {
+  font-family: Arial, sans-serif;
+  background-image: url("../images/Jpg11.jpg");  /* <-- Ensure image is placed here */
+  background-size: cover;        /* fills entire screen */
+  background-position: center;   /* centers the image */
+  background-repeat: no-repeat;
+  background-attachment: fixed;  /* creates a modern parallax effect */
+  color: white;
+}
+
+/* ===== DARK OVERLAY FOR READABILITY ===== */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.55); /* darkens image so text stands out */
+  z-index: -1;
+}
+
+/* Header & Navigation */
+header {
+  background: rgba(0,0,0,0.7);
+  padding: 1rem 2rem;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.profile-pic {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid white;
+}
+
+/* Navigation menu */
+.nav-link {
+  list-style: none;
+  display: flex;
+  gap: 1.5rem;
+}
+
+.nav-link a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.nav-link a:hover {
+  color: #f1c40f;
+  transform: scale(1.1);
+}
+
+/* ===== ABOUT SECTION CARD ===== */
+.section {
+  background: rgba(255,255,255,0.13);
+  backdrop-filter: blur(6px);  /* glass effect */
+  padding: 2rem;
+  width: 80%;
+  margin: 3rem auto;
+  border-radius: 12px;
+  text-align: center;
+  border: 1px solid rgba(255,255,255,0.3);
+  color: #f2f2f2;
+}
+
+.section h1 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
+
+.section p {
+  font-size: 1.2rem;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 1.5rem;
+  color: #fff;
+  margin-top: 3rem;
+  background: rgba(0,0,0,0.6);
+  border-top: 1px solid rgba(255,255,255,0.2);
+}
+#script.js
+// Example: Smooth scroll for navigation links
+document.querySelectorAll('.nav-link a').forEach(link => {
+  link.addEventListener('click', function(e) {
+    e.preventDefault();
+    const targetId = this.getAttribute('href').substring(1);
+    document.getElementById(targetId).scrollIntoView({ behavior: 'smooth' });
+  });
+});
